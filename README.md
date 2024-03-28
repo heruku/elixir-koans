@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/elixirkoans/elixir-koans)
+
 # Elixir Koans
 
 ![CI](https://github.com/elixirkoans/elixir-koans/actions/workflows/elixir.yml/badge.svg)
